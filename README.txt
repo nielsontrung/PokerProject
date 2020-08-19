@@ -113,6 +113,8 @@ INSTALLING
 
 JAR file for project provided in uploaded final submission to D2L, PokerProject.jar can be found within main directory.
 
+To run the application copy and paste the following command into cmd: java -jar PokerProject.jar
+
 Alternatively, download all the .java files and image files uploaded to the dropbox on D2L. Java files are in a various subpackages, keep this in mind while compiling.
 
 RUNNING THE TESTS
